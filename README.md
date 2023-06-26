@@ -6,9 +6,8 @@
 
 ## 💻 Top Projects I've Contributed To
 
-|       |       |
-| :---: | :---: |
 | <a href="https://github.com/open-mmlab/mmocr"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=open-mmlab&repo=mmocr&show_owner=True&theme=buefy" /></a> | <a href="https://github.com/open-mmlab/mmengine"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=open-mmlab&repo=mmengine&show_owner=True&theme=buefy" /></a> |
+| :---: | :---: |
 
 ---
 
